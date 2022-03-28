@@ -14,7 +14,7 @@ Step 2 --- Install git: (https://github.com/git-guides/install-git#:~:text=To%20
 
 Step 3 --- Install VsCode: (https://code.visualstudio.com/docs/setup/windows)
 
-Step 5 --- Fork this repository (https://docs.github.com/en/get-started/quickstart/fork-a-repo) it first.
+Step 5 --- Fork this repository (https://github.com/imranalmunyeem/imdb-scrapper-nodejs-cherrio) it first.
 
 Step 6 --- Clone (https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
