@@ -1,0 +1,12 @@
+{
+  "name": "imdb-scrapper-nodejs-cherrio",
+  "version": "1.0.0",
+  "description": "Project that scrap information of a the specific movie page from IMDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "IMRAN AL MUNYEEM",
+  "license": "ISC"
+}
